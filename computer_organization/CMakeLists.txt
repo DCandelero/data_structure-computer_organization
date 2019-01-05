@@ -3,4 +3,4 @@ project(pipeline C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(pipeline main.c)
+add_executable(main.c)
