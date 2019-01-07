@@ -3,7 +3,13 @@
 
 
 int main() {
-    printf("Hello, World!\n");
+    int option = 0;
+
+    printf()
+
+    while (option != -1) {
+        option = getchar();
+    }
 
 
 

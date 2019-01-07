@@ -3,4 +3,4 @@ project(pipeline C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(main.c)
+add_executable(data_structure-computer_organization main.c)
